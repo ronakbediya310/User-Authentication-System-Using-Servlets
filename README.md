@@ -13,7 +13,7 @@ This is a Java-based web application implementing a simple user authentication s
 - Java Servlets
 - MySQL Database
 - BCrypt for password hashing
-- (Include other relevant technologies/frameworks used)
+
 
 ## Project Structure
 
