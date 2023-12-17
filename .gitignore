@@ -1,0 +1,29 @@
+# Ignore IDE files
+.idea/
+*.iml
+
+# Ignore build output
+target/
+build/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore configuration files with sensitive information
+.env
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore maven/gradle specific files
+.mvn/
+.gradle/
+# NetBeans IDE files
+nbproject/
+# Java Manifest file
+*/META-INF/MANIFEST.MF
